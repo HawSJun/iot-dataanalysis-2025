@@ -418,5 +418,6 @@ sns.set_theme(font='Malgun Gothic', rc={'axes.unicode_minus': False})
 
 - [노트북](./day08/mldl01_YOLO_start.ipynb)
 
-
 ### 코딩테스트
+
+- [노트북](./day08/250417_코딩테스트.ipynb)
